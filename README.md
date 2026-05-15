@@ -12,15 +12,15 @@ The app is designed to be **practical, visual, and easy to use**, encouraging su
 - `data/Data.kt`  
 
 ###  UI Layer
-- `home/HomeActivity.kt` – Main navigation hub.  
-- `info/InfoActivity.kt` – Displays app information and usage tips.  
-- `input/InputActivity.kt` – Handles user input (roof area, tank size, rainfall).  
-- `navigation/SidebarAdapter.kt` – Sidebar navigation adapter.  
-- `progress/ProgressActivity.kt` – Shows tank fill level with progress bar.  
-- `reports/ReportsActivity.kt` – Displays daily and total savings reports.  
-- `theme/Color.kt` – Color palette definitions.  
-- `theme/Theme.kt` – App theme setup.  
-- `theme/Type.kt` – Typography styles.
+- `ui/home/HomeActivity.kt` – Main navigation hub.  
+- `ui/info/InfoActivity.kt` – Displays app information and usage tips.  
+- `ui/input/InputActivity.kt` – Handles user input (roof area, tank size, rainfall).  
+- `ui/navigation/SidebarAdapter.kt` – Sidebar navigation adapter.  
+- `ui/progress/ProgressActivity.kt` – Shows tank fill level with progress bar.  
+- `ui/reports/ReportsActivity.kt` – Displays daily and total savings reports.  
+- `ui/theme/Color.kt` – Color palette definitions.  
+- `ui/theme/Theme.kt` – App theme setup.  
+- `ui/theme/Type.kt` – Typography styles.
 
 ###  ViewModel Layer
 - `ViewModel/SharedViewModel.kt`  
@@ -48,3 +48,5 @@ The app is designed to be **practical, visual, and easy to use**, encouraging su
 ![Alt text](/Screenshot%202026-05-03%20211207.png)
 ### Reports Screen
 ![Alt text](Screenshot%202026-05-15%20232125.png)
+### File structure
+![Alt text](Screenshot%202026-05-15%20234156.png)
