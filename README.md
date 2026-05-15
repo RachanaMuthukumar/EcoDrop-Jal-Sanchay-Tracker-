@@ -39,12 +39,12 @@ The app is designed to be **practical, visual, and easy to use**, encouraging su
 ### Progress Screen
 ![Alt text](Screenshot 2026-05-15 232114.png)
 ### Home Screen
-![Alt text](Screenshot 2026-05-03 210951.png)
+![Alt text](/Screenshot 2026-05-03 210951.png)
 ### Side Bar
-![Alt text](Screenshot 2026-05-03 211002.png)
+![Alt text](/Screenshot 2026-05-03 211002.png)
 ### Inputs Screen
 ![Alt text](Screenshot 2026-05-15 231936.png)
 ### Info Screen
-![Alt text](Screenshot 2026-05-03 211207.png)
+![Alt text](/Screenshot 2026-05-03 211207.png)
 ### Reports Screen
 ![Alt text](Screenshot 2026-05-15 232125.png)
