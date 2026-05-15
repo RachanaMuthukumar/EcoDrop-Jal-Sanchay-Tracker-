@@ -34,4 +34,17 @@ The app is designed to be **practical, visual, and easy to use**, encouraging su
 ##  Features
 - **Progress Bar** – Visual representation of water collected.  
 - **Input Screen** – User setup and rainfall entry with validation.  
-- **Reports Screen** – Displays today’s savings and total savings. 
+- **Reports Screen** – Displays today’s savings and total savings.
+## Screenshots
+### Progress Screen
+![Alt text](Screenshot 2026-05-15 232114.png)
+### Home Screen
+![Alt text](Screenshot 2026-05-03 210951.png)
+### Side Bar
+![Alt text](Screenshot 2026-05-03 211002.png)
+### Inputs Screen
+![Alt text](Screenshot 2026-05-15 231936.png)
+### Info Screen
+![Alt text](Screenshot 2026-05-03 211207.png)
+### Reports Screen
+![Alt text](Screenshot 2026-05-15 232125.png)
